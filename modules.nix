@@ -107,5 +107,14 @@ inputs.nuscht-search.packages.${system}.mkMultiSearch {
       ];
       urlPrefix = "https://tangled.org/tranquil.farm/tranquil-pds/blob/main/";
     }
+    {
+      name = "tangled";
+      modules = [
+        inputs.tangled.nixosModules.appview
+        inputs.tangled.nixosModules.knot
+        inputs.tangled.nixosModules.spindle
+      ];
+      urlPrefix = "https://tangled.org/tangled.org/core/blob/main/";
+    }
   ];
 }
