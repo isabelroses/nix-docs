@@ -1,0 +1,311 @@
+{
+  "nodes": {
+    "catppuccin": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1772153824,
+        "narHash": "sha256-T65qXmlcD9qFpPTi+mOXsn4dIkO2N8Ls67nqmuzepv0=",
+        "owner": "catppuccin",
+        "repo": "nix",
+        "rev": "4b0f5b7bf7b3eeb484d49524f3c9791864ab9362",
+        "type": "github"
+      },
+      "original": {
+        "owner": "catppuccin",
+        "repo": "nix",
+        "type": "github"
+      }
+    },
+    "darwin": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1771992996,
+        "narHash": "sha256-Y/ijH/unOPxzUicbla6yT/14RJgubUWnY2I2A6Ast2Q=",
+        "owner": "nix-darwin",
+        "repo": "nix-darwin",
+        "rev": "3bfa436c1975674ca465ce34586467be301ff509",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nix-darwin",
+        "repo": "nix-darwin",
+        "type": "github"
+      }
+    },
+    "easy-hosts": {
+      "locked": {
+        "lastModified": 1755470564,
+        "narHash": "sha256-KB1ZryVDoQcbIsItOf4WtxkHhh3ppj+XwMpSnt/2QHc=",
+        "owner": "tgirlcloud",
+        "repo": "easy-hosts",
+        "rev": "d0422bc7b3db26268982aa15d07e60370e76ee1d",
+        "type": "github"
+      },
+      "original": {
+        "owner": "tgirlcloud",
+        "repo": "easy-hosts",
+        "type": "github"
+      }
+    },
+    "flake-utils": {
+      "inputs": {
+        "systems": "systems"
+      },
+      "locked": {
+        "lastModified": 1731533236,
+        "narHash": "sha256-l0KFg5HjrsfsO/JpG+r7fRrqm12kzFHyUHqHCVpMMbI=",
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "rev": "11707dc2f618dd54ca8739b309ec4fc024de578b",
+        "type": "github"
+      },
+      "original": {
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "type": "github"
+      }
+    },
+    "home-manager": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1772218752,
+        "narHash": "sha256-G8nArvOTZXU8DRvrzAdz3Elcj6kA/vMtvY9mrGLATtA=",
+        "owner": "nix-community",
+        "repo": "home-manager",
+        "rev": "f3a30376bb9eb2f6f61816be7d6ed954b6d2a3b9",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nix-community",
+        "repo": "home-manager",
+        "type": "github"
+      }
+    },
+    "ixx": {
+      "inputs": {
+        "flake-utils": [
+          "nuscht-search",
+          "flake-utils"
+        ],
+        "nixpkgs": [
+          "nuscht-search",
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1754860581,
+        "narHash": "sha256-EM0IE63OHxXCOpDHXaTyHIOk2cNvMCGPqLt/IdtVxgk=",
+        "owner": "NuschtOS",
+        "repo": "ixx",
+        "rev": "babfe85a876162c4acc9ab6fb4483df88fa1f281",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NuschtOS",
+        "ref": "v0.1.1",
+        "repo": "ixx",
+        "type": "github"
+      }
+    },
+    "nixos-wsl": {
+      "inputs": {
+        "flake-compat": [],
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1771563879,
+        "narHash": "sha256-vA5hocvdGhr+jfBN7A7ogeZqIz2qx01EixXwdVsQcnE=",
+        "owner": "nix-community",
+        "repo": "NixOS-WSL",
+        "rev": "379d20c55f552e91fb9f3f0382e4a97d3f452943",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nix-community",
+        "repo": "NixOS-WSL",
+        "type": "github"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1768395095,
+        "narHash": "sha256-wufp5c0nWh/87f9eK7xy1eZXms5zd4yl6S4SR+LfA08=",
+        "rev": "13868c071cc73a5e9f610c47d7bb08e5da64fdd5",
+        "type": "tarball",
+        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.05pre927565.13868c071cc7/nixexprs.tar.xz?lastModified=1768395095&rev=13868c071cc73a5e9f610c47d7bb08e5da64fdd5"
+      },
+      "original": {
+        "type": "tarball",
+        "url": "https://channels.nixos.org/nixpkgs-unstable/nixexprs.tar.xz"
+      }
+    },
+    "nixpkgs-fetch-deno": {
+      "locked": {
+        "lastModified": 1766410835,
+        "narHash": "sha256-dRhVt0aFDyTqppyzRLxiO1JZEAoIA2fUnaeyJTe+UwU=",
+        "owner": "aMOPel",
+        "repo": "nixpkgs",
+        "rev": "c9801acc8c4fac6377d076bc1c102b15bd9cfa6f",
+        "type": "github"
+      },
+      "original": {
+        "owner": "aMOPel",
+        "ref": "feat/fetchDenoDeps",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "nuscht-search": {
+      "inputs": {
+        "flake-utils": "flake-utils",
+        "ixx": "ixx",
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1768249818,
+        "narHash": "sha256-ANfn5OqIxq3HONPIXZ6zuI5sLzX1sS+2qcf/Pa0kQEc=",
+        "owner": "nuschtos",
+        "repo": "search",
+        "rev": "b6f77b88e9009bfde28e2130e218e5123dc66796",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nuschtos",
+        "repo": "search",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "catppuccin": "catppuccin",
+        "darwin": "darwin",
+        "easy-hosts": "easy-hosts",
+        "home-manager": "home-manager",
+        "nixos-wsl": "nixos-wsl",
+        "nixpkgs": "nixpkgs",
+        "nuscht-search": "nuscht-search",
+        "simple-nixos-mailserver": "simple-nixos-mailserver",
+        "sops": "sops",
+        "tgirlpkgs": "tgirlpkgs",
+        "tranquil": "tranquil"
+      }
+    },
+    "simple-nixos-mailserver": {
+      "inputs": {
+        "blobs": [],
+        "flake-compat": [],
+        "git-hooks": [],
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1772064816,
+        "narHash": "sha256-ks1D9Rtmopd5F/8ENjEUJpSYYMxv603/v6TRen9Hq54=",
+        "owner": "simple-nixos-mailserver",
+        "repo": "nixos-mailserver",
+        "rev": "ea4dc17f4bc0f65eed082fa394509e4543072b56",
+        "type": "gitlab"
+      },
+      "original": {
+        "owner": "simple-nixos-mailserver",
+        "repo": "nixos-mailserver",
+        "type": "gitlab"
+      }
+    },
+    "sops": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1772048434,
+        "narHash": "sha256-/wA0OaH6kZ/pFA+nXR/tvg5oupOmEDmMS5us79JT60o=",
+        "owner": "Mic92",
+        "repo": "sops-nix",
+        "rev": "334daa7c273dd8bf7a0cd370e4e16022b64e55e9",
+        "type": "github"
+      },
+      "original": {
+        "owner": "Mic92",
+        "repo": "sops-nix",
+        "type": "github"
+      }
+    },
+    "systems": {
+      "locked": {
+        "lastModified": 1681028828,
+        "narHash": "sha256-Vy1rq5AaRuLzOxct8nz4T6wlgyUR7zLU309k9mBC768=",
+        "owner": "nix-systems",
+        "repo": "default",
+        "rev": "da67096a3b9bf56a91d16901293e51ba5b49a27e",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nix-systems",
+        "repo": "default",
+        "type": "github"
+      }
+    },
+    "tgirlpkgs": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1772154256,
+        "narHash": "sha256-uHTBySh6kPIg2dxfCOq16X+E2FArOdC0yjUDytfO6bQ=",
+        "owner": "tgirlcloud",
+        "repo": "pkgs",
+        "rev": "1c56c24e18b160e087b9ada7768c0126319576d3",
+        "type": "github"
+      },
+      "original": {
+        "owner": "tgirlcloud",
+        "repo": "pkgs",
+        "type": "github"
+      }
+    },
+    "tranquil": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ],
+        "nixpkgs-fetch-deno": "nixpkgs-fetch-deno"
+      },
+      "locked": {
+        "lastModified": 1771927991,
+        "narHash": "sha256-g2d/wCFgQ4t9IYpYRe0+O5UpjTn2gxnTd0yDT9WnGro=",
+        "ref": "refs/heads/main",
+        "rev": "28ca66624a6f0f294ca296b9627a0687412da2b9",
+        "revCount": 186,
+        "type": "git",
+        "url": "https://tangled.org/tranquil.farm/tranquil-pds"
+      },
+      "original": {
+        "type": "git",
+        "url": "https://tangled.org/tranquil.farm/tranquil-pds"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

@@ -1,0 +1,39 @@
+name: Bump Flake Inputs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "5 4 * * *" # Every day at 4:05 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  update-lockfile:
+    runs-on: ubuntu-latest
+
+    permissions:
+      pull-requests: write
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Install Lix
+        uses: samueldr/lix-gha-installer-action@8c7f8a4b0f594ab8a6dc3bf71c217587bbc756b5 # v2025-10-27
+
+      - name: Update lockfile
+        run: nix flake update --commit-lock-file
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add flake.lock
+          git commit -m "Update flake.lock" || echo "No changes to commit"
+
+      - name: Deploy docs
+        uses: ./.github/actions/deploy.yml
