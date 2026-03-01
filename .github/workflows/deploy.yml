@@ -3,7 +3,8 @@ name: Build and deploy docs
 on:
   workflow_dispatch:
   push:
-  workflow_call:
+  schedule:
+    - cron: "30 4 * * *" # Every day at 4:30 UTC
 
 permissions: {}
 

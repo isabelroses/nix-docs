@@ -33,6 +33,3 @@ jobs:
 
       - name: Push changes
         run: git push
-
-      - name: Deploy docs
-        uses: ./.github/actions/deploy.yml
