@@ -150,11 +150,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1772380461,
-        "narHash": "sha256-O3ukj3Bb3V0Tiy/4LUfLlBpWypJ9P0JeUgsKl2nmZZY=",
+        "lastModified": 1772569491,
+        "narHash": "sha256-bdr6ueeXO1Xg91sFkuvaysYF0mVdwHBpdyhTjBEWv+s=",
         "owner": "nix-community",
         "repo": "home-manager",
-        "rev": "f140aa04d7d14f8a50ab27f3691b5766b17ae961",
+        "rev": "924e61f5c2aeab38504028078d7091077744ab17",
         "type": "github"
       },
       "original": {
@@ -291,11 +291,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1772449432,
-        "narHash": "sha256-ks8MqChwI9G+8Uo5R3dv+t69H+rXe9U3nn3+uYdfcc8=",
-        "rev": "dc7513872406b53d2ff417a003895d6daffdff2f",
+        "lastModified": 1772554988,
+        "narHash": "sha256-DCq3GQH3rmDkB/J+GYWgmLHat2SiHQUXpF3Q+f8DPx8=",
+        "rev": "87f6b6e02cb3f87a1be4f939326c94c8af9d55d8",
         "type": "tarball",
-        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.05pre957009.dc7513872406/nixexprs.tar.xz?lastModified=1772449432&rev=dc7513872406b53d2ff417a003895d6daffdff2f"
+        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.05pre957626.87f6b6e02cb3/nixexprs.tar.xz?lastModified=1772554988&rev=87f6b6e02cb3f87a1be4f939326c94c8af9d55d8"
       },
       "original": {
         "type": "tarball",
@@ -459,11 +459,11 @@
         "sqlite-lib-src": "sqlite-lib-src"
       },
       "locked": {
-        "lastModified": 1772510352,
-        "narHash": "sha256-iBPwpiShhxX0CSaXMaVCcnABm+oaw/D0hAgApWSC6M0=",
+        "lastModified": 1772554657,
+        "narHash": "sha256-kzWpuMNU4Q7uo5F3RCY4GL4pDGoC0aePygepALXKjEM=",
         "ref": "refs/heads/master",
-        "rev": "dff589df8e22bddc129ae051a42ad5ca166e6650",
-        "revCount": 2007,
+        "rev": "2e78be8f1b88ea090fb762ff44926e9aa6090d3b",
+        "revCount": 2008,
         "type": "git",
         "url": "https://tangled.org/tangled.org/core"
       },
@@ -479,11 +479,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1772500108,
-        "narHash": "sha256-AliFjPxYKEMWLr9V6cu7fYCj3N7IklAh367UcyprB7c=",
+        "lastModified": 1772593220,
+        "narHash": "sha256-VV+C3scvkUmixBte9eUxwMzaA5GSxQk1WFvum4AK3u4=",
         "owner": "tgirlcloud",
         "repo": "pkgs",
-        "rev": "f64302eaf45afa97d1fbedb3bf7e0e384e1a8a65",
+        "rev": "af24a306a5d53f2c78d5b32575c4d34e74177644",
         "type": "github"
       },
       "original": {
