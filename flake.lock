@@ -172,11 +172,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1775683737,
-        "narHash": "sha256-oBYyowo6yfgb95Z78s3uTnAd9KkpJpwzjJbfnpLaM2Y=",
+        "lastModified": 1775781825,
+        "narHash": "sha256-L5yKTpR+alrZU2XYYvIxCeCP4LBHU5jhwSj7H1VAavg=",
         "owner": "nix-community",
         "repo": "home-manager",
-        "rev": "7ba4ee4228ed36123c7cb75d50524b43514ef992",
+        "rev": "e35c39fca04fee829cecdf839a50eb9b54d8a701",
         "type": "github"
       },
       "original": {
@@ -325,11 +325,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1775639890,
-        "narHash": "sha256-KbwJuc+hYt9EOOPNDok8MfWNonZJibcwGnJ1mT+eX8Q=",
-        "rev": "456e8a9468b9d46bd8c9524425026c00745bc4d2",
+        "lastModified": 1775763530,
+        "narHash": "sha256-QIGMZuG5QK1Z4OEMDSpEJc7JRonbemZ9S+xpBIsQuNE=",
+        "rev": "b0188973b4b2a5b6bdba8b65381d6cd09a533da0",
         "type": "tarball",
-        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.05pre977011.456e8a9468b9/nixexprs.tar.xz?lastModified=1775639890&rev=456e8a9468b9d46bd8c9524425026c00745bc4d2"
+        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.05pre977728.b0188973b4b2/nixexprs.tar.xz?lastModified=1775763530&rev=b0188973b4b2a5b6bdba8b65381d6cd09a533da0"
       },
       "original": {
         "type": "tarball",
@@ -512,11 +512,11 @@
         "sqlite-lib-src": "sqlite-lib-src"
       },
       "locked": {
-        "lastModified": 1775631782,
-        "narHash": "sha256-Ml9sk/35ih9q+7rfHTL6jX8oxBxd8NdwEbU8FujoMgs=",
+        "lastModified": 1775800050,
+        "narHash": "sha256-W2ACFxUnw1ulqJoFZKudL6Qe2my0GrOxhlXIRfLz3jg=",
         "ref": "refs/heads/master",
-        "rev": "3518f473bdfe910fa01e62de7671891ea7b4a7e4",
-        "revCount": 2201,
+        "rev": "7fa08bc4b706ba6042d79b6ccf9b512f12d47c66",
+        "revCount": 2210,
         "type": "git",
         "url": "https://tangled.org/tangled.org/core"
       },
@@ -553,11 +553,11 @@
         "nixpkgs-fetch-deno": "nixpkgs-fetch-deno"
       },
       "locked": {
-        "lastModified": 1775292762,
-        "narHash": "sha256-6jSs7wNvVWi9kcSZayLkn7In+Q/78cK6sTH0jryMNGQ=",
+        "lastModified": 1775770203,
+        "narHash": "sha256-RLsaO4m069Y986WrnSVG3FdW7iOKHBIMnuj8YucdMRg=",
         "ref": "refs/heads/main",
-        "rev": "add1ff176b0e401c8d8ceeab1443b492974981ac",
-        "revCount": 273,
+        "rev": "dbc3c23c957fad03635c9e3c665831622ac7af91",
+        "revCount": 275,
         "type": "git",
         "url": "https://tangled.org/tranquil.farm/tranquil-pds"
       },
