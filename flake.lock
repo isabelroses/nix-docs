@@ -23,11 +23,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1775938181,
-        "narHash": "sha256-3VRl7wTV2guWBI1kYT2OZEAMYU5nUZMo6um9UH+HYHE=",
+        "lastModified": 1775994227,
+        "narHash": "sha256-4VKeWtl9dEubrgpy9fSXkXbjBZlNXPNlQQM5l1ppHv4=",
         "owner": "catppuccin",
         "repo": "nix",
-        "rev": "8d8b4fd30aecbf30eef6b1d1977670a597d29494",
+        "rev": "d0a9a21ed8e235956a768fc624242ec9a3e15575",
         "type": "github"
       },
       "original": {
@@ -172,11 +172,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1775900011,
-        "narHash": "sha256-QUGu6CJYFQ5AWVV0n3/FsJyV+1/gj7HSDx68/SX9pwM=",
+        "lastModified": 1776046499,
+        "narHash": "sha256-Wzc4nn07/0RL21ypPHRzNDQZcjhIC8LaYo7QJQjM5T4=",
         "owner": "nix-community",
         "repo": "home-manager",
-        "rev": "b0569dc6ec1e6e7fefd8f6897184e4c191cd768e",
+        "rev": "287f84846c1eb3b72c986f5f6bebcff0bd67440d",
         "type": "github"
       },
       "original": {
@@ -336,22 +336,6 @@
         "url": "https://channels.nixos.org/nixpkgs-unstable/nixexprs.tar.xz"
       }
     },
-    "nixpkgs-fetch-deno": {
-      "locked": {
-        "lastModified": 1766410835,
-        "narHash": "sha256-dRhVt0aFDyTqppyzRLxiO1JZEAoIA2fUnaeyJTe+UwU=",
-        "owner": "aMOPel",
-        "repo": "nixpkgs",
-        "rev": "c9801acc8c4fac6377d076bc1c102b15bd9cfa6f",
-        "type": "github"
-      },
-      "original": {
-        "owner": "aMOPel",
-        "ref": "feat/fetchDenoDeps",
-        "repo": "nixpkgs",
-        "type": "github"
-      }
-    },
     "nuscht-search": {
       "inputs": {
         "flake-utils": "flake-utils",
@@ -417,11 +401,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1775959179,
-        "narHash": "sha256-FEwm2CI5r9E/r5EV8cSfV6rer3F3ZpMKSv7Zpap2Z/I=",
+        "lastModified": 1776036329,
+        "narHash": "sha256-Afl7dss2D6LNj8uIi13g61Y77IvVMrAud5Pvf6mOoGQ=",
         "owner": "simple-nixos-mailserver",
         "repo": "nixos-mailserver",
-        "rev": "d98a6302f1c56e16d660e68f2aa41382f7ed766b",
+        "rev": "4ddd48b5734d3f416dc87ab48b8f660e35703d2a",
         "type": "gitlab"
       },
       "original": {
@@ -512,11 +496,11 @@
         "sqlite-lib-src": "sqlite-lib-src"
       },
       "locked": {
-        "lastModified": 1775806124,
-        "narHash": "sha256-K0Th4lG2eqwjnMbsJOw05qAtQn/BQHykfzheH0MZN5U=",
+        "lastModified": 1775991486,
+        "narHash": "sha256-FIzyZqcHL27vOioLVf1cVKFkCtWWm3ny7gLPqcLERwM=",
         "ref": "refs/heads/master",
-        "rev": "7ef0e37220e456e23b12e112a2608b6585966d2e",
-        "revCount": 2217,
+        "rev": "f64dbe713c610910a091bce70ce56c7f68556b6b",
+        "revCount": 2220,
         "type": "git",
         "url": "https://tangled.org/tangled.org/core"
       },
@@ -549,15 +533,14 @@
       "inputs": {
         "nixpkgs": [
           "nixpkgs"
-        ],
-        "nixpkgs-fetch-deno": "nixpkgs-fetch-deno"
+        ]
       },
       "locked": {
-        "lastModified": 1775917423,
-        "narHash": "sha256-YEbAKr83h0VPLPlkaO+0ncWTYvNFHZZedGtwxPVcW4Q=",
+        "lastModified": 1776035319,
+        "narHash": "sha256-F2/rG0fzaAA5cjfM1bG8JCZ2o7yYpkUy+XgCurvIUVM=",
         "ref": "refs/heads/main",
-        "rev": "c250d51978ca3b304593e232a27131cda7d6770b",
-        "revCount": 284,
+        "rev": "cdbbaaccdf85093c50797281f3e08b6f4f90901b",
+        "revCount": 293,
         "type": "git",
         "url": "https://tangled.org/tranquil.farm/tranquil-pds"
       },
