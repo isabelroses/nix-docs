@@ -45,8 +45,8 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
-    tgirlpkgs = {
-      url = "github:tgirlcloud/pkgs";
+    extersia = {
+      url = "github:extersia-org/pkgs";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 

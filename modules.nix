@@ -62,28 +62,28 @@ inputs.nuscht-search.packages.${system}.mkMultiSearch {
       urlPrefix = "https://github.com/tgirlcloud/easy-hosts/blob/main/";
     }
     {
-      name = "tgirlpkgs nixos";
+      name = "extersia nixos";
       modules = [
-        inputs.tgirlpkgs.nixosModules.default
+        inputs.extersia.nixosModules.default
         { _module.args = { inherit pkgs; }; }
       ];
-      urlPrefix = "https://github.com/tgirlcloud/pkgs/blob/main/";
+      urlPrefix = "https://github.com/extersia-org/pkgs/blob/main/";
     }
     {
-      name = "tgirlpkgs darwin";
+      name = "extersia darwin";
       modules = [
-        inputs.tgirlpkgs.darwinModules.default
+        inputs.extersia.darwinModules.default
         { _module.args = { inherit pkgs; }; }
       ];
-      urlPrefix = "https://github.com/tgirlcloud/pkgs/blob/main/";
+      urlPrefix = "https://github.com/extersia-org/pkgs/blob/main/";
     }
     {
-      name = "tgirlpkgs home-manager";
+      name = "extersia home-manager";
       modules = [
-        inputs.tgirlpkgs.homeModules.default
+        inputs.extersia.homeModules.default
         { _module.args = { inherit pkgs; }; }
       ];
-      urlPrefix = "https://github.com/tgirlcloud/pkgs/blob/main/";
+      urlPrefix = "https://github.com/extersia-org/pkgs/blob/main/";
     }
     {
       name = "simple-nixos-mailserver";

@@ -71,6 +71,26 @@
         "type": "github"
       }
     },
+    "extersia": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1777253157,
+        "narHash": "sha256-8LSUQrL5IYJ+4dPDPWcMjC67LqgbUXMagWu159U6MfQ=",
+        "owner": "extersia-org",
+        "repo": "pkgs",
+        "rev": "58f4c3b77191dccbccbf6269231b538e0fbb36a8",
+        "type": "github"
+      },
+      "original": {
+        "owner": "extersia-org",
+        "repo": "pkgs",
+        "type": "github"
+      }
+    },
     "fenix": {
       "inputs": {
         "nixpkgs": [
@@ -363,6 +383,7 @@
         "catppuccin": "catppuccin",
         "darwin": "darwin",
         "easy-hosts": "easy-hosts",
+        "extersia": "extersia",
         "home-manager": "home-manager",
         "nixos-wsl": "nixos-wsl",
         "nixpkgs": "nixpkgs",
@@ -370,7 +391,6 @@
         "simple-nixos-mailserver": "simple-nixos-mailserver",
         "sops": "sops",
         "tangled": "tangled",
-        "tgirlpkgs": "tgirlpkgs",
         "tranquil": "tranquil"
       }
     },
@@ -507,26 +527,6 @@
       "original": {
         "type": "git",
         "url": "https://tangled.org/tangled.org/core"
-      }
-    },
-    "tgirlpkgs": {
-      "inputs": {
-        "nixpkgs": [
-          "nixpkgs"
-        ]
-      },
-      "locked": {
-        "lastModified": 1777253157,
-        "narHash": "sha256-8LSUQrL5IYJ+4dPDPWcMjC67LqgbUXMagWu159U6MfQ=",
-        "owner": "tgirlcloud",
-        "repo": "pkgs",
-        "rev": "58f4c3b77191dccbccbf6269231b538e0fbb36a8",
-        "type": "github"
-      },
-      "original": {
-        "owner": "tgirlcloud",
-        "repo": "pkgs",
-        "type": "github"
       }
     },
     "tranquil": {
