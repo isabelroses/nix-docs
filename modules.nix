@@ -1,4 +1,5 @@
 {
+  lib,
   pkgs,
   inputs,
 }:
@@ -42,18 +43,12 @@ inputs.nuscht-search.packages.${system}.mkMultiSearch {
     }
     {
       name = "catppuccin nixos";
-      modules = [
-        inputs.catppuccin.nixosModules.catppuccin
-        { _module.args = { inherit pkgs; }; }
-      ];
+      optionsJSON = inputs.catppuccin.packages.${system}.nixosOptionsJSON + /share/doc/nixos/options.json;
       urlPrefix = "https://github.com/catppuccin/nix/blob/main/";
     }
     {
       name = "catppuccin home-manager";
-      modules = [
-        inputs.catppuccin.homeModules.catppuccin
-        { _module.args = { inherit pkgs; }; }
-      ];
+      optionsJSON = inputs.catppuccin.packages.${system}.homeOptionsJSON + /share/doc/nixos/options.json;
       urlPrefix = "https://github.com/catppuccin/nix/blob/main/";
     }
     {
