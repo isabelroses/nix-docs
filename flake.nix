@@ -41,7 +41,7 @@
     };
 
     catppuccin = {
-      url = "github:catppuccin/nix";
+      url = "github:catppuccin/nix?dir=dev";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
