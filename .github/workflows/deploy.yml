@@ -18,8 +18,11 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Install Lix
-        uses: samueldr/lix-gha-installer-action@7b7f14d320d6aacfb65bd1ef761566b3b69e474c # v2026-02-22
+      - name: Install Nix
+        uses: cachix/install-nix-action@8aa03977d8d733052d78f4e008a241fd1dbf36b3 # v31.10.6
+        extra_nix_config: |
+          extra-substituters = https://catppuccin.cachix.org
+          extra-trusted-public-keys = catppuccin.cachix.org-1:noG/4HkbhJb+lUAdKrph6LaozJvAeEEZj4N732IysmU=
 
       - name: Setup Cache
         uses: Mic92/hestia@2606720eb6e4a34a070bf175d58883ad84b3ad61 # v1.0.4
