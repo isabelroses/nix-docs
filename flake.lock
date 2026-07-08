@@ -21,17 +21,18 @@
         "catppuccin": "catppuccin_2",
         "flake-utils": "flake-utils",
         "home-manager": "home-manager",
+        "nix-darwin": "nix-darwin",
         "nixpkgs": [
           "nixpkgs"
         ]
       },
       "locked": {
         "dir": "dev",
-        "lastModified": 1783356436,
-        "narHash": "sha256-eUh4pdoI5pnMLV+sncuThErQ71Bs3S5fdo/my3SUf1A=",
+        "lastModified": 1783449009,
+        "narHash": "sha256-BJYTl6uZ0PRzOjjxaPHnfEifkTwf63uXwWfjrplRoL0=",
         "owner": "catppuccin",
         "repo": "nix",
-        "rev": "cf1750da1bdabcd549d2476f387d39e90bb20228",
+        "rev": "da2bb1bb2ed82749c56b34f940e0af9339d72533",
         "type": "github"
       },
       "original": {
@@ -99,11 +100,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1783389114,
-        "narHash": "sha256-pZiPtmULFwOr/Wk+4R00rZ0W1CNiHgtaXLA0W6z1Z+g=",
+        "lastModified": 1783473904,
+        "narHash": "sha256-X8tk/7MkZXl0t8RNbNXHA5TOF/0F+B2kzSPq38VCtfk=",
         "owner": "extersia-org",
         "repo": "pkgs",
-        "rev": "4a6b0aaf488809955c0172e27f38279e6a67a30c",
+        "rev": "2f097d7999e0a8b301b1623c3a6f8016dda6f021",
         "type": "github"
       },
       "original": {
@@ -285,11 +286,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1783388784,
-        "narHash": "sha256-w+YU5vatysjLZIg1wOKSzo/RL9Z66eBQuIjVnBM/1Zg=",
+        "lastModified": 1783479733,
+        "narHash": "sha256-d/JatqgG+Pmo+IuCTZfnrEAPWU3fdha48GQeXuFO+bE=",
         "owner": "nix-community",
         "repo": "home-manager",
-        "rev": "63d02d1c19f1c2b47a5bc7e55c620b6af7b218a6",
+        "rev": "cee3f0e7fec85d80c149c7afc29926747f7bd3c2",
         "type": "github"
       },
       "original": {
@@ -446,6 +447,27 @@
       "original": {
         "owner": "microvm-nix",
         "repo": "microvm.nix",
+        "type": "github"
+      }
+    },
+    "nix-darwin": {
+      "inputs": {
+        "nixpkgs": [
+          "catppuccin",
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1779036909,
+        "narHash": "sha256-zXcwYQGCT6pzinK+1dBB2ekTVtfxGZAapb3Evdcu4fY=",
+        "owner": "nix-darwin",
+        "repo": "nix-darwin",
+        "rev": "56c666e108467d87d13508936aade6d567f2a501",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nix-darwin",
+        "repo": "nix-darwin",
         "type": "github"
       }
     },
@@ -713,11 +735,11 @@
         "sqlite-lib-src": "sqlite-lib-src"
       },
       "locked": {
-        "lastModified": 1783352337,
-        "narHash": "sha256-88QyWfxFfll0wnSSUjdnSaB9zpHIY3CUU1F8BlmuyAs=",
+        "lastModified": 1783430971,
+        "narHash": "sha256-s4EUKXfoz1ij7ZRPjMQ0Q4amiTEBCffT4WewXLlS8WQ=",
         "ref": "refs/heads/master",
-        "rev": "7f67a8bb98cf8b48a20f66d65e41396680c18ae3",
-        "revCount": 2867,
+        "rev": "3fc289e529a5909ed73304772c7b54df477c0177",
+        "revCount": 2876,
         "type": "git",
         "url": "https://tangled.org/tangled.org/core"
       },
