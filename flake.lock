@@ -65,11 +65,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1784362797,
-        "narHash": "sha256-EP9b9b+OXDxHBPefFwMYCIaLq0fn3UkmrbfzbLUT7kQ=",
+        "lastModified": 1784500460,
+        "narHash": "sha256-UvORnAxTRHax7RG74W8Z2t4GvIkX6AjJ5kk0QlwZomo=",
         "owner": "nix-darwin",
         "repo": "nix-darwin",
-        "rev": "b4cccbd4bc299c1f71ae185b79c3cf99aa82805c",
+        "rev": "57a3171f94705599a2499248ca5758d5eb47c0e0",
         "type": "github"
       },
       "original": {
@@ -100,11 +100,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1784424255,
-        "narHash": "sha256-ySgucgHTcsyE0FVtlFD5orRgnE6EfwsDONcVBGEUI3A=",
+        "lastModified": 1784510840,
+        "narHash": "sha256-LrlAoPnEBsHDverhEpibKJ+Edp1CtUCKrbstK0DSqVw=",
         "owner": "extersia-org",
         "repo": "pkgs",
-        "rev": "50161a42c2b51be6f900f117b5d889ebb0b8e2bd",
+        "rev": "61b5f2558671dceef96f45afbe78e4995bf07981",
         "type": "github"
       },
       "original": {
@@ -286,11 +286,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1784407317,
-        "narHash": "sha256-iZrxHToDJWnvt+5LGAtvuQMTy1NZYlNEKbKaVtBJNcc=",
+        "lastModified": 1784489491,
+        "narHash": "sha256-j9maqjx1T8+ljAVntAdSI5hSGCm77QNZz64JF1rJNu0=",
         "owner": "nix-community",
         "repo": "home-manager",
-        "rev": "39411a8e12a5526d992e65bc7e3dc9a4414d6713",
+        "rev": "3139deb8cafbe73b39b24451255b2fdd3426077e",
         "type": "github"
       },
       "original": {
@@ -528,11 +528,11 @@
     },
     "nixpkgs_2": {
       "locked": {
-        "lastModified": 1784364478,
-        "narHash": "sha256-eiNlOqzMSGC+sKwgrhkBK/Mn4n717NV1DEfJqHBVhgg=",
-        "rev": "20535e48e12c86043b577b8518234ff5dbb26957",
+        "lastModified": 1784453100,
+        "narHash": "sha256-pMp70Dx62xa8XFOLvrcCLSyw22HCEoYyYd5W+bUfqsc=",
+        "rev": "b471514bed69eff5255c8e63c1f80e5fe56c616f",
         "type": "tarball",
-        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1036836.20535e48e12c/nixexprs.tar.xz"
+        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1037466.b471514bed69/nixexprs.tar.xz"
       },
       "original": {
         "type": "tarball",
@@ -735,11 +735,11 @@
         "sqlite-lib-src": "sqlite-lib-src"
       },
       "locked": {
-        "lastModified": 1784434998,
-        "narHash": "sha256-STWAwbRVGNlOZ0JvrOTN77Lmjzob49MmYCOBwEElwLc=",
+        "lastModified": 1784455514,
+        "narHash": "sha256-zO/SLXWaHh9p8YZMz6ojUFAi6g4RKH53HlFr/SaZlYI=",
         "ref": "refs/heads/master",
-        "rev": "9693256d63945eb70c72c2d0361da3adc8719532",
-        "revCount": 2939,
+        "rev": "da1953b92c920d3beb2cbd4914387ec3189728ae",
+        "revCount": 2940,
         "type": "git",
         "url": "https://tangled.org/tangled.org/core"
       },
