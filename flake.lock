@@ -100,11 +100,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1784597032,
-        "narHash": "sha256-38hsubMlbgxTYyU6ENJRYi30ZEhySXvVhYLGgft5PKI=",
+        "lastModified": 1784684336,
+        "narHash": "sha256-nIpE08yj0ObXxk7xb7NQq/HF3q+lu5/pSkaICaG7pvI=",
         "owner": "extersia-org",
         "repo": "pkgs",
-        "rev": "8e4ccc07c7cceebc89a8305b27d4d4f02b8c5e8e",
+        "rev": "7d26fed8343b37aa028d6fc98a096e2eaa08d23e",
         "type": "github"
       },
       "original": {
@@ -286,11 +286,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1784588016,
-        "narHash": "sha256-ouZe80aWEhMLVMkqICFDN+JUw+0FJtCr/bh+hHtRtMg=",
+        "lastModified": 1784690067,
+        "narHash": "sha256-t86pRs7IPs3RTMPueWvvdcxyTFrctHAv2Jl7jnjsSf8=",
         "owner": "nix-community",
         "repo": "home-manager",
-        "rev": "deeb6b7eb7e0c44ae1819c051ce175bd92a85100",
+        "rev": "6d8d61567802997f9ec3086b2a837e3ef31fac16",
         "type": "github"
       },
       "original": {
@@ -500,11 +500,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1784058842,
-        "narHash": "sha256-3u3tvbCIAid3Mv7RrJx13jusIEQC/HeKYhO/SUSxR3A=",
+        "lastModified": 1784642409,
+        "narHash": "sha256-hcbDqFuySAJawljt5r0sKBCJKYnbtGD0T/ZIozH1Dq0=",
         "owner": "nix-community",
         "repo": "NixOS-WSL",
-        "rev": "24c8dc8e0f2170e1a377be24dfadc7d9d21dc1ad",
+        "rev": "eaeb18da90024448a60eb1ec7132eafa4003404e",
         "type": "github"
       },
       "original": {
@@ -712,6 +712,19 @@
         "type": "github"
       }
     },
+    "tailwindcss-animated-src": {
+      "flake": false,
+      "locked": {
+        "lastModified": 499162500,
+        "narHash": "sha256-l3esIcsAwj0PHOhnHBLWiLzzRiOo1yOk9VYEGpn6fyQ=",
+        "type": "tarball",
+        "url": "https://registry.npmjs.org/tailwindcss-animated/-/tailwindcss-animated-1.1.2.tgz"
+      },
+      "original": {
+        "type": "tarball",
+        "url": "https://registry.npmjs.org/tailwindcss-animated/-/tailwindcss-animated-1.1.2.tgz"
+      }
+    },
     "tangled": {
       "inputs": {
         "actor-typeahead-src": "actor-typeahead-src",
@@ -732,14 +745,15 @@
         "nixpkgs": [
           "nixpkgs"
         ],
-        "sqlite-lib-src": "sqlite-lib-src"
+        "sqlite-lib-src": "sqlite-lib-src",
+        "tailwindcss-animated-src": "tailwindcss-animated-src"
       },
       "locked": {
-        "lastModified": 1784577008,
-        "narHash": "sha256-7kefP1TO4T+ZjVUNc24+eYtT5crEWtZ1qIrQgZ7XN+I=",
+        "lastModified": 1784698508,
+        "narHash": "sha256-7PwQO7GfIhD+VgH6dCIhZ9gZ++8+0r546BWXoO24Pkw=",
         "ref": "refs/heads/master",
-        "rev": "6d78fffa9e429ff5a693fb0c275cd5cc2f84755d",
-        "revCount": 2942,
+        "rev": "ce717bc7129fa0ece8c736b06622bcfb4608be5b",
+        "revCount": 2959,
         "type": "git",
         "url": "https://tangled.org/tangled.org/core"
       },
