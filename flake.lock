@@ -100,11 +100,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1784684336,
-        "narHash": "sha256-nIpE08yj0ObXxk7xb7NQq/HF3q+lu5/pSkaICaG7pvI=",
+        "lastModified": 1784942779,
+        "narHash": "sha256-NzS0UcCcD5rRqgwfWJgWkF+UKE7x29kx8bCToJR3s+c=",
         "owner": "extersia-org",
         "repo": "pkgs",
-        "rev": "7d26fed8343b37aa028d6fc98a096e2eaa08d23e",
+        "rev": "8273ad4f30a469fedcd05656ae06256920fd683f",
         "type": "github"
       },
       "original": {
@@ -286,11 +286,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1784789275,
-        "narHash": "sha256-cgRTWuG+u1tBPhm01JrId2k0Bni09phVJ1Q0BZlRd7M=",
+        "lastModified": 1784913159,
+        "narHash": "sha256-JWq0BfjO4ktpH5USfQNQzdvHpIDT8fSKD5K7LvdMRFs=",
         "owner": "nix-community",
         "repo": "home-manager",
-        "rev": "3b0e6bbd65869af1beadf5963a99befc179d209f",
+        "rev": "079a3b5d1aa6a719920a51316253b7d6dd22738d",
         "type": "github"
       },
       "original": {
@@ -749,11 +749,11 @@
         "tailwindcss-animated-src": "tailwindcss-animated-src"
       },
       "locked": {
-        "lastModified": 1784828651,
-        "narHash": "sha256-1NKcGOQ+NBuSWRpARmtzjoZDimyXohhSEUuP9cOVXgk=",
+        "lastModified": 1784940214,
+        "narHash": "sha256-pamKCbpPld1qbPuDW8k8csoUJgGJElLMuG9tj2x4/r8=",
         "ref": "refs/heads/master",
-        "rev": "50574018db292b9df22c4f9591f0e66458480909",
-        "revCount": 2997,
+        "rev": "01117fddd3502c57bc20a65a75a66a4900d5d67d",
+        "revCount": 3006,
         "type": "git",
         "url": "https://tangled.org/tangled.org/core"
       },
@@ -769,11 +769,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1784792061,
-        "narHash": "sha256-WTgbiX8kueAoUHyFR1lcsAnDBdzdyOEtfo8LZS5PJUQ=",
+        "lastModified": 1784957260,
+        "narHash": "sha256-CUPa2nyKD0wttdvALZTH7vsm90AMTZ15KygFnNXwTxY=",
         "ref": "refs/heads/main",
-        "rev": "00ca223b5ffcab9aa9034437771043ec43688985",
-        "revCount": 460,
+        "rev": "25d7d24d4e802bcc6478582d15c1fade6799ca3f",
+        "revCount": 492,
         "type": "git",
         "url": "https://tangled.org/tranquil.farm/tranquil-pds"
       },
