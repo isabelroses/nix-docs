@@ -100,11 +100,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1785116914,
-        "narHash": "sha256-Psse4Xi9R++IKVvlbG2WMWpNhsLCbtamkog3MbGqDjI=",
+        "lastModified": 1785201685,
+        "narHash": "sha256-8xNaVSTNZT50zy1IFSLtFcTouZgj2JBxk68i/35IXK0=",
         "owner": "extersia-org",
         "repo": "pkgs",
-        "rev": "a0ce6bcbfa29b8799428813428bb18c91eff1a92",
+        "rev": "88dde25c16b7d112208f42836d2f15323e307923",
         "type": "github"
       },
       "original": {
@@ -286,11 +286,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1785119578,
-        "narHash": "sha256-3VMVuOJ6fK+RNOXVmqusqUwQ1sDfPeddNKaM2JR/4Y0=",
+        "lastModified": 1785168662,
+        "narHash": "sha256-kGJTc0oEUQuEwV66lSlMxYtOEtpk9N/HS43k+rFAvs8=",
         "owner": "nix-community",
         "repo": "home-manager",
-        "rev": "e83dffa86cccb6237fe194d4eeb47f41557749d1",
+        "rev": "cbb77679b3d992c8b62f884cd3a84af534a28621",
         "type": "github"
       },
       "original": {
@@ -528,11 +528,11 @@
     },
     "nixpkgs_2": {
       "locked": {
-        "lastModified": 1785110946,
-        "narHash": "sha256-Jww2+DH/TDKEOLOMj/MVBqeSFLTN6tFya3qCV0OfjEg=",
-        "rev": "d3498f786f97ac0bded21b34bae0bf3809b45aa3",
+        "lastModified": 1785141334,
+        "narHash": "sha256-jIYqF10/p99GhQYHFnT7XgCRWavkL4Iie1DEyIIZSc0=",
+        "rev": "38a4887411571457d700c51c64a6e49ead2ed5ab",
         "type": "tarball",
-        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1042268.d3498f786f97/nixexprs.tar.xz"
+        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1042399.38a488741157/nixexprs.tar.xz"
       },
       "original": {
         "type": "tarball",
@@ -605,11 +605,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1784545776,
-        "narHash": "sha256-aU4ftMXSp6Y4Q5iKzSoJdUQcVP5UA4aDQp2DalAJNJE=",
+        "lastModified": 1785189803,
+        "narHash": "sha256-wQZdfwBzLAynNTkUhhdZ0lrEXmre+hh3xhTiKGxEjWg=",
         "owner": "simple-nixos-mailserver",
         "repo": "nixos-mailserver",
-        "rev": "a0e427dd77c7d985394bab609c1bc0bbd4d6dd1f",
+        "rev": "5b71a609d46ede98ac0df2f6dc8b6842bbe46262",
         "type": "gitlab"
       },
       "original": {
@@ -749,11 +749,11 @@
         "tailwindcss-animated-src": "tailwindcss-animated-src"
       },
       "locked": {
-        "lastModified": 1785130800,
-        "narHash": "sha256-ETzX22jbYzV0Jo9nHsxSs8rw7x8WrbV1LGGJkveX5IE=",
+        "lastModified": 1785170743,
+        "narHash": "sha256-DTPdU8EYVJsNCB72kWE6jI1BUDiZZ4bQdEH81MMu9cE=",
         "ref": "refs/heads/master",
-        "rev": "b98ef54e06e3fccbc3959d619a393e6127ef35a5",
-        "revCount": 3019,
+        "rev": "6b5b544c4820b542251330f1bd568e645b5d157c",
+        "revCount": 3030,
         "type": "git",
         "url": "https://tangled.org/tangled.org/core"
       },
