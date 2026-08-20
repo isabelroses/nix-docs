@@ -100,11 +100,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1787099579,
-        "narHash": "sha256-EOCYm7mT+i/GQiPdn/dvjhUoM13pVl4VYbbPAewoZ7Y=",
+        "lastModified": 1787185978,
+        "narHash": "sha256-tbd4Itvtrqz66/VrVc0zaJXCRqsFbhTStDQnvj4p3k0=",
         "owner": "extersia-org",
         "repo": "pkgs",
-        "rev": "86c045778056ac7a68a0488b87bce35abce50d61",
+        "rev": "65d0c219c53abf639299c7d444f8272e1d255cfb",
         "type": "github"
       },
       "original": {
@@ -286,11 +286,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1786999651,
-        "narHash": "sha256-MTGMFlLDTklsXhCp4r5GXB4VAVadPdalXLvUjd/K7h0=",
+        "lastModified": 1787176219,
+        "narHash": "sha256-djoRr6jBpe35q/0JwAvXpFXg1Ktf+X54NU2RLR7wnHw=",
         "owner": "nix-community",
         "repo": "home-manager",
-        "rev": "353742587cbaf079b3caee743115d037bc51fea6",
+        "rev": "c53d643b3737e2fcd04e6cb3b3580ef50b2087a0",
         "type": "github"
       },
       "original": {
@@ -528,11 +528,11 @@
     },
     "nixpkgs_2": {
       "locked": {
-        "lastModified": 1787052956,
-        "narHash": "sha256-I41mLUc3AtKBKvY4E0Gd6RPFtOWOWx/w7g3ft444iBg=",
-        "rev": "b47ad65d73ab65ded9ab408fe558866d71defee8",
+        "lastModified": 1787172299,
+        "narHash": "sha256-LS/aXgJh+/1UgtrOxdS5Wum/PgmQYa1AMFZHdH+xGyo=",
+        "rev": "07e1d92cdc0ed416cfa11ff3ca40d17e61cfba7a",
         "type": "tarball",
-        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1057499.b47ad65d73ab/nixexprs.tar.xz"
+        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1058374.07e1d92cdc0e/nixexprs.tar.xz"
       },
       "original": {
         "type": "tarball",
@@ -749,11 +749,11 @@
         "tailwindcss-animated-src": "tailwindcss-animated-src"
       },
       "locked": {
-        "lastModified": 1787040060,
-        "narHash": "sha256-wgVkvl+SeABuduM+FBeV0RUfY1+TroN3GvHcYfWAIzI=",
+        "lastModified": 1787132711,
+        "narHash": "sha256-NNTWHpg8BYnAlhkyNyBt0UqG2e7WFIT1iuEveAlByC8=",
         "ref": "refs/heads/master",
-        "rev": "83cd2950465e8e612804d2874b97a035af8dbdfd",
-        "revCount": 3128,
+        "rev": "1adde466290bdc74e2a18f23592a03975be11a92",
+        "revCount": 3130,
         "type": "git",
         "url": "https://tangled.org/tangled.org/core"
       },
