@@ -100,11 +100,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1787185978,
-        "narHash": "sha256-tbd4Itvtrqz66/VrVc0zaJXCRqsFbhTStDQnvj4p3k0=",
+        "lastModified": 1787272541,
+        "narHash": "sha256-R3vnEYR92c0BlQQi7qNRCWz+KsfxbbVsrOQ2KhIEa5w=",
         "owner": "extersia-org",
         "repo": "pkgs",
-        "rev": "65d0c219c53abf639299c7d444f8272e1d255cfb",
+        "rev": "6c2c59222df16afcb6e8f04ecb7c31041943dfa9",
         "type": "github"
       },
       "original": {
@@ -749,11 +749,11 @@
         "tailwindcss-animated-src": "tailwindcss-animated-src"
       },
       "locked": {
-        "lastModified": 1787132711,
-        "narHash": "sha256-NNTWHpg8BYnAlhkyNyBt0UqG2e7WFIT1iuEveAlByC8=",
+        "lastModified": 1787215704,
+        "narHash": "sha256-TXhdk/sSphoxsnsYUB6ACj/wKbR39Gkk4EgA2Rp/OGo=",
         "ref": "refs/heads/master",
-        "rev": "1adde466290bdc74e2a18f23592a03975be11a92",
-        "revCount": 3130,
+        "rev": "afc044753d21eb4a0bfe10f3249a114ad67862fe",
+        "revCount": 3131,
         "type": "git",
         "url": "https://tangled.org/tangled.org/core"
       },
@@ -769,11 +769,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1786900523,
-        "narHash": "sha256-ep8pe0xNCB/1kC8OvFpFrtMaubs71w1F/s+f2ALMgys=",
+        "lastModified": 1787214113,
+        "narHash": "sha256-a0SmdGpM4+1cD4Pk9BPK7OFAFJx0DeMh8t47qrhMXww=",
         "ref": "refs/heads/main",
-        "rev": "ed3d129594ff9d25f5258b6678752ad288eef393",
-        "revCount": 515,
+        "rev": "aa815931e050ef0347942547cba919a6a7a74ac5",
+        "revCount": 521,
         "type": "git",
         "url": "https://tangled.org/tranquil.farm/tranquil-pds"
       },
