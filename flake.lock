@@ -100,11 +100,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1788055478,
-        "narHash": "sha256-5pZ9nHo8TvXr9HK05LaYgFUcJWxnbt+aLy1w6JsHzH4=",
+        "lastModified": 1788141642,
+        "narHash": "sha256-DMJvjRZCeRvVur6322yG4aADqQ2Mwa46TijZ+nz/7qM=",
         "owner": "extersia-org",
         "repo": "pkgs",
-        "rev": "5e4859913d35c03e4bf6960ac889349bb1161f34",
+        "rev": "c1854182facc22083cd5f32e4be993c9917f4552",
         "type": "github"
       },
       "original": {
@@ -286,11 +286,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1787797243,
-        "narHash": "sha256-8+Q7NOB7RPajRjA4pbCDLzqH+MTjnG9x6LUPLfL2joA=",
+        "lastModified": 1788146656,
+        "narHash": "sha256-XmJmvk9rytTb7dCotO/aqR+YysB8HOqnprlOdv+LAF4=",
         "owner": "nix-community",
         "repo": "home-manager",
-        "rev": "99c9ec63390f1d8c14d95d9e8b17cc29cfbd4e11",
+        "rev": "82c265faf4e3161d6015db07c9b0f1ee36a9029b",
         "type": "github"
       },
       "original": {
@@ -749,11 +749,11 @@
         "tailwindcss-animated-src": "tailwindcss-animated-src"
       },
       "locked": {
-        "lastModified": 1788005101,
-        "narHash": "sha256-e2axhYJD7TVl5bP2teafmiTkq5nOWN7OM1sFjENRys0=",
+        "lastModified": 1788091139,
+        "narHash": "sha256-sHgNBF0maWA2LJNfs7AZd+IUF4LeBh+p5Bzd76b93tU=",
         "ref": "refs/heads/master",
-        "rev": "f2f804f3cbeaf0a17201005e08650d323dd02ea8",
-        "revCount": 3175,
+        "rev": "681b358acc7a9d21ad1d2c1961c7eacba6943abd",
+        "revCount": 3176,
         "type": "git",
         "url": "https://tangled.org/tangled.org/core"
       },
