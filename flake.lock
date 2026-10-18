@@ -28,11 +28,11 @@
       },
       "locked": {
         "dir": "dev",
-        "lastModified": 1791795517,
-        "narHash": "sha256-hmF0FVrUW6UKQ74qyGJSepMYadnIqzVe2h7TQtZdbmo=",
+        "lastModified": 1792238796,
+        "narHash": "sha256-mRsa8oJ8R7fkvR5K+uQYfuxX9Np0ai/KvzTE8FYVx7E=",
         "owner": "catppuccin",
         "repo": "nix",
-        "rev": "2e605f61db52a45a7ff1db414df395ef566565a3",
+        "rev": "30c87b95a628e81ec82a4fa0ed4db85d7c7d46d6",
         "type": "github"
       },
       "original": {
@@ -100,11 +100,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1792201999,
-        "narHash": "sha256-ueNM58hxcutVbRgfeKi6qQEEmjrs5tDRzz5UTalr7vQ=",
+        "lastModified": 1792288335,
+        "narHash": "sha256-CoigfT0mK3cofAj0gYjN+byFyJsoPKBoAn1q0RQg/fw=",
         "owner": "extersia-org",
         "repo": "pkgs",
-        "rev": "006120f6f97e36ab79820bbbea67a488d5f6493b",
+        "rev": "19222ab6cbc8004b292be2939bba296a4709d151",
         "type": "github"
       },
       "original": {
@@ -769,11 +769,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1792088482,
-        "narHash": "sha256-Ssw2FCqXChWJ11MFqEqdKojcPOu4qgIdJMEVce/BOEA=",
+        "lastModified": 1792266558,
+        "narHash": "sha256-d8kSRGls0sRtyw4dXJI5ngSXh89l3lnhuJp1O6YoNnw=",
         "ref": "refs/heads/main",
-        "rev": "7098e8f5a999e74b37d4c592c065ec8bbe200bf4",
-        "revCount": 631,
+        "rev": "d309780ca3a43cd73ef6bd10082d89b2aa268c71",
+        "revCount": 634,
         "type": "git",
         "url": "https://tangled.org/tranquil.farm/tranquil-pds"
       },
