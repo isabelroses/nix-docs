@@ -84,11 +84,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1793415707,
-        "narHash": "sha256-Ip1t1A5pLgp55T7PFqnK8987mVc6W3fnz4xh9g3rGY4=",
+        "lastModified": 1793501743,
+        "narHash": "sha256-x6A9r+4NWgN0rmexnNnyUR0KP5nEPW0DcHEtDCA1b9I=",
         "owner": "extersia-org",
         "repo": "pkgs",
-        "rev": "fca614f65367b22a043375b16cd09b4123b6a762",
+        "rev": "a0be865c7fef482316bb422fdce78f61f076df49",
         "type": "github"
       },
       "original": {
@@ -474,11 +474,11 @@
     },
     "nixpkgs_2": {
       "locked": {
-        "lastModified": 1793345420,
-        "narHash": "sha256-RcsCCbI6YtyC9Be5c0XiwLMHJivUaGWSNHjJt0Q3NBE=",
-        "rev": "885ba4d038f10c3d17d7a92e8c3cc185b99c9158",
+        "lastModified": 1793494649,
+        "narHash": "sha256-gh035dq/sQ/OwPltGyvjNl1zNWZgVnng2zug7xKqSu8=",
+        "rev": "d357a2b54f0b6dc4aeb4e993190a52cf151b6f24",
         "type": "tarball",
-        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1105041.885ba4d038f1/nixexprs.tar.xz"
+        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1106208.d357a2b54f0b/nixexprs.tar.xz"
       },
       "original": {
         "type": "tarball",
@@ -677,11 +677,11 @@
         "timeless-fonts-src": "timeless-fonts-src"
       },
       "locked": {
-        "lastModified": 1793438711,
-        "narHash": "sha256-HekNMOcKg8g3xkcwpdeQGjJJXebepG9kz5sD+WyuIxY=",
+        "lastModified": 1793517722,
+        "narHash": "sha256-XLnfgqYs8I1ttvbv3GzU1nshPmBLCwWmJgiV/fOdbGI=",
         "ref": "refs/heads/master",
-        "rev": "f8cd5c23462cded0fefafcaacdf69c9079e9c40c",
-        "revCount": 6074,
+        "rev": "7792426d56796a4e48b9878bcd40bb3c5df85f8c",
+        "revCount": 6131,
         "type": "git",
         "url": "https://tangled.org/tangled.org/core"
       },
