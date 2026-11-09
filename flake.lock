@@ -84,11 +84,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1793884716,
-        "narHash": "sha256-cOCACe73VuBwGYOKC/mBpNZNlY3GqjrRa4lTjysd2ag=",
+        "lastModified": 1794220667,
+        "narHash": "sha256-6cIZlnNpsl/hD84ZoTtNF4x6vYp0f+wqpZu2ijy0TGc=",
         "owner": "extersia-org",
         "repo": "pkgs",
-        "rev": "5c62fdd38d204e4806d5e45382ad5928b3ba4119",
+        "rev": "51cc4d919adf32ff6b4c63d57e2e5c530bb13105",
         "type": "github"
       },
       "original": {
@@ -677,11 +677,11 @@
         "timeless-fonts-src": "timeless-fonts-src"
       },
       "locked": {
-        "lastModified": 1794076291,
-        "narHash": "sha256-jRgXaKHAmtx352F2VCdn9nbAF/mdk2hyDHZEKosaiWs=",
+        "lastModified": 1794218628,
+        "narHash": "sha256-GUKs0NgMNq9Cy2PDiEj2ZuEa+BE4kivOUWlQqW82yMI=",
         "ref": "refs/heads/master",
-        "rev": "f70c71c7696a1cb0caaf472cca950bbbc74f174f",
-        "revCount": 6430,
+        "rev": "23725ef18cfd7973ca0d5e30df6e55ec1694731a",
+        "revCount": 6435,
         "type": "git",
         "url": "https://tangled.org/tangled.org/core"
       },
