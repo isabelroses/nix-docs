@@ -106,7 +106,7 @@ inputs.nuscht-search.packages.${system}.mkMultiSearch {
       name = "tangled";
       modules = [
         inputs.tangled.nixosModules.deliberi
-        inputs.tangled.nixosModules.knot
+        inputs.tangled.nixosModules.knot-rs
         inputs.tangled.nixosModules.spindle
       ];
       urlPrefix = "https://tangled.org/tangled.org/core/blob/main/";
