@@ -1,8 +1,4 @@
-{
-  lib,
-  pkgs,
-  inputs,
-}:
+{ pkgs, inputs }:
 let
   inherit (pkgs.stdenv.hostPlatform) system;
 in
@@ -105,9 +101,10 @@ inputs.nuscht-search.packages.${system}.mkMultiSearch {
     {
       name = "tangled";
       modules = [
-        inputs.tangled.nixosModules.appview
-        inputs.tangled.nixosModules.knot
+        inputs.tangled.nixosModules.deliberi
+        inputs.tangled.nixosModules.knot-rs
         inputs.tangled.nixosModules.spindle
+        { _module.args = { inherit pkgs; }; }
       ];
       urlPrefix = "https://tangled.org/tangled.org/core/blob/main/";
     }
