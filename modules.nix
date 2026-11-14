@@ -105,7 +105,7 @@ inputs.nuscht-search.packages.${system}.mkMultiSearch {
     {
       name = "tangled";
       modules = [
-        inputs.tangled.nixosModules.appview
+        inputs.tangled.nixosModules.deliberi
         inputs.tangled.nixosModules.knot
         inputs.tangled.nixosModules.spindle
       ];
