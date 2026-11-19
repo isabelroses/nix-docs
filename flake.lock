@@ -84,11 +84,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1794991886,
-        "narHash": "sha256-46/T09wpLRgB3tJdEjrpcTQGOD6HvfSM2gSJoYfkNm8=",
+        "lastModified": 1795064123,
+        "narHash": "sha256-NOn+thfeS3QBAaQ4noLFO5qOnkM8HuFgfvJf0pJ6h3U=",
         "owner": "extersia-org",
         "repo": "pkgs",
-        "rev": "ed0a6460639294674a413d4a45139f38d08c14a9",
+        "rev": "bb47bd250e12950c2da186854c782dc9b9b41413",
         "type": "github"
       },
       "original": {
@@ -677,11 +677,11 @@
         "timeless-fonts-src": "timeless-fonts-src"
       },
       "locked": {
-        "lastModified": 1795004382,
-        "narHash": "sha256-WmpUwuojvRzLzGlsRxXuYhN/ma4YRBMPPriHlytY6ZY=",
+        "lastModified": 1795082628,
+        "narHash": "sha256-jAcFk7d4kCte2q0aS2UCgOiQ4h2V2eYv1I7MrxCj4eM=",
         "ref": "refs/heads/master",
-        "rev": "a0f6337222455ccdf24aa4ab9ccdae3c9a9e45e5",
-        "revCount": 6596,
+        "rev": "0647f4f6314914f03dfb5190b3e22c7285ab196d",
+        "revCount": 6630,
         "type": "git",
         "url": "https://tangled.org/tangled.org/core"
       },
@@ -710,11 +710,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1794780464,
-        "narHash": "sha256-CDyNXLXyz/4AEYUgNu1r0H6fGcjfTdKH1psvVwuT+F8=",
+        "lastModified": 1795074550,
+        "narHash": "sha256-M3P6D1yBiGJW2MBseGA3cmA2W2nQUGb8KnmaVoPAePY=",
         "ref": "refs/heads/main",
-        "rev": "b95f999e639fbf392ffe9c21a84a38b21704536c",
-        "revCount": 694,
+        "rev": "92f6c03b89ddb5d5d29b13a855363ca62fd0601e",
+        "revCount": 697,
         "type": "git",
         "url": "https://tangled.org/tranquil.farm/tranquil-pds"
       },
