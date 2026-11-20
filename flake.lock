@@ -84,11 +84,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1795064123,
-        "narHash": "sha256-NOn+thfeS3QBAaQ4noLFO5qOnkM8HuFgfvJf0pJ6h3U=",
+        "lastModified": 1795149975,
+        "narHash": "sha256-L10HSEd78VP/M7zaSQ/hvjIrGkyIyuY0nEIrd/nD/XE=",
         "owner": "extersia-org",
         "repo": "pkgs",
-        "rev": "bb47bd250e12950c2da186854c782dc9b9b41413",
+        "rev": "e60a424a8fdcf68662353e5ccffbf6a02b9c1b15",
         "type": "github"
       },
       "original": {
@@ -474,11 +474,11 @@
     },
     "nixpkgs_2": {
       "locked": {
-        "lastModified": 1794840529,
-        "narHash": "sha256-i4bQ1+DYOg+08KQNJDtmhTlFnn1DYUMKGzVOfBt23mQ=",
-        "rev": "e21fec321d73511849707a7585e4ea155ee4bf40",
+        "lastModified": 1795095985,
+        "narHash": "sha256-iE8oRwNZcE7Mcupd5cNTCWMi4e07CoQIRYUmw5tf+9w=",
+        "rev": "19cfded70b91ca0981373973c5b1efffdd4d6647",
         "type": "tarball",
-        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1122334.e21fec321d73/nixexprs.tar.xz"
+        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1124565.19cfded70b91/nixexprs.tar.xz"
       },
       "original": {
         "type": "tarball",
@@ -677,11 +677,11 @@
         "timeless-fonts-src": "timeless-fonts-src"
       },
       "locked": {
-        "lastModified": 1795082628,
-        "narHash": "sha256-jAcFk7d4kCte2q0aS2UCgOiQ4h2V2eYv1I7MrxCj4eM=",
+        "lastModified": 1795116024,
+        "narHash": "sha256-vo577EJLAed/JOiG8GxrbfrezioigyywDTHYylf4s80=",
         "ref": "refs/heads/master",
-        "rev": "0647f4f6314914f03dfb5190b3e22c7285ab196d",
-        "revCount": 6630,
+        "rev": "f67fce52136294d0d7c34357481d1185b7d232e8",
+        "revCount": 6635,
         "type": "git",
         "url": "https://tangled.org/tangled.org/core"
       },
@@ -710,11 +710,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1795074550,
-        "narHash": "sha256-M3P6D1yBiGJW2MBseGA3cmA2W2nQUGb8KnmaVoPAePY=",
+        "lastModified": 1795170761,
+        "narHash": "sha256-d+KtT7xKLjEYdEa5uZwq3eIv7BJ0N75vMrah8AWwSv8=",
         "ref": "refs/heads/main",
-        "rev": "92f6c03b89ddb5d5d29b13a855363ca62fd0601e",
-        "revCount": 697,
+        "rev": "5e19426783bf247e2845e9752a56742ed43f8a62",
+        "revCount": 700,
         "type": "git",
         "url": "https://tangled.org/tranquil.farm/tranquil-pds"
       },
